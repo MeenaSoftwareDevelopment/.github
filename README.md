@@ -1,3 +1,6 @@
 # Meena Software Development
 
-Placeholder README. This'll be populated with stuff to do with the project at some point.
+## Chosen Project
+
+**Pairs** - Rows of hidden items (often playing cards) will be selected by the player then matched with other hidden items. Players gain points by
+finding matched pairs. If no pair is found both items are hidden again.

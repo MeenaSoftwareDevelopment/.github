@@ -11,7 +11,8 @@ This project will be web-based, using React.
 
 Undecided as of now.
 
-Project Activities
+## Project Activities
+
 Activity 1 Group Guidance – Requirements/Creative Session
 1. Review all available projects before deciding which to develop - PAIRS
 2. Consider your primary target audience (see Possible Project Target Demographics) 

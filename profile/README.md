@@ -17,7 +17,9 @@ The main target demographic will be **Epic Gamers**.
 
 The game has to include a even amount of objects/cards. When clicked, the chosen card will reveal itself, and if 2 of them match, the player gets a point, if not they turn around again and shuffle.
 
-If 3 cards match, the player will get a special point.
+If 3 cards match, the player will get double points, or more points.
+
+Users might have a timer for each round which decreases to make the game harder.
 
 ### Target Platform
 

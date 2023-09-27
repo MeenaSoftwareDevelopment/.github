@@ -1,11 +1,29 @@
 # Meena Software Development
 
-## Chosen Project
+## Project Details
+
+### Chosen Project
 
 **Pairs** - Rows of hidden items (often playing cards) will be selected by the player then matched with other hidden items. Players gain points by
 finding matched pairs. If no pair is found both items are hidden again.
 
 This project will be web-based, using React.
+
+### Target Demographic
+
+The main target demographic will be **Epic Gamers**.
+
+### Gameplay
+
+The game has to include a even amount of objects/cards. When clicked, the chosen card will reveal itself, and if 2 of them match, the player gets a point, if not they turn around again and shuffle.
+
+If 3 cards match, the player will get a special point.
+
+### Target Platform
+
+The game will be developed using React, so the target platform is any modern browser.
+
+OSes include Windows, macOS, Linux, BSD, ChromeOS, pretty much anything that will run a modern browser and that supports React.
 
 ## Roles
 

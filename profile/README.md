@@ -13,6 +13,8 @@ This project will be web-based, using React.
 
 The main target demographic will be **Epic Gamers**.
 
+In serious terms, the main target demographic will be **children playing in primary school, elderly people who are trying to exercise their memory** and **adult beginner gamblers**.
+
 ### Gameplay
 
 The game has to include a **even amount** of objects/cards.
@@ -21,7 +23,30 @@ When clicked, the chosen card will **reveal itself**, and if 2 of them match, th
 If 3 cards match, the player will get **double points**, or more points.
 
 A possible feature to add might be a **timer**, which decreases each round to make the game harder.
-The timer can possibly use an initial value **depending on how many cards there are** – for example, 20 cards could have 10 seconds.
+The timer can possibly use an initial value **depending on how many cards there are** – for example, 20 cards could have an initial time of 10 seconds.
+
+### User Interface
+
+The user interface of the game could be a simple grid arrangement, for example, 20 cards could be spread out over a 5x4 grid.
+
+There could be a "Round" counter, e.g. "Round 1", "Round 2".
+
+There could be a "Time Limit" counter in seconds, or alternatively `MM:SS`.
+
+#### Example
+
+```
+
+               Round 3
+          Time Remaining: 50
+
+      —    —    —    —    —    —
+     |X|  |A|  |X|  |A|  | |  | |
+      —    —    —    —    —    —
+
+```
+
+This is obviously not what the game will look like, this is just a text-based example.
 
 ### Target Platform
 

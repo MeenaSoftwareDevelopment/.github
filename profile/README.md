@@ -15,17 +15,19 @@ The main target demographic will be **Epic Gamers**.
 
 ### Gameplay
 
-The game has to include a even amount of objects/cards. When clicked, the chosen card will reveal itself, and if 2 of them match, the player gets a point, if not they turn around again and shuffle.
+The game has to include a **even amount** of objects/cards.
+When clicked, the chosen card will **reveal itself**, and if 2 of them match, the player gets a **point**, if not they turn around again and shuffle.
 
-If 3 cards match, the player will get double points, or more points.
+If 3 cards match, the player will get **double points**, or more points.
 
-Users might have a timer for each round which decreases to make the game harder.
+A possible feature to add might be a **timer**, which decreases each round to make the game harder.
+The timer can possibly use an initial value **depending on how many cards there are** – for example, 20 cards could have 10 seconds.
 
 ### Target Platform
 
-The game will be developed using React, so the target platform is any modern browser.
+The game will be developed using **React**, so the target platform is any **modern browser**.
 
-OSes include Windows, macOS, Linux, BSD, ChromeOS, pretty much anything that will run a modern browser and that supports React.
+OSes include **Windows, macOS, Linux, BSD, ChromeOS**, pretty much anything that will run a modern browser and that supports React.
 
 ## Roles
 

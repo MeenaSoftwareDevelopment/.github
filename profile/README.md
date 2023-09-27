@@ -13,7 +13,8 @@ Undecided as of now.
 
 ## Project Activities
 
-Activity 1 Group Guidance – Requirements/Creative Session
+### Activity 1 Group Guidance – Requirements/Creative Session
+
 1. Review all available projects before deciding which to develop - PAIRS
 2. Consider your primary target audience (see Possible Project Target Demographics) 
 3. Create an overall specification based on user and system requirements (including HCI, game/application-rules and the game/application-

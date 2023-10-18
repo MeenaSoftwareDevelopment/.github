@@ -13,7 +13,7 @@ This project will be web-based, using React.
 
 The main target demographic will be **Epic Gamers**.
 
-In serious terms, the main target demographic will be **children playing in primary school, elderly people who are trying to exercise their memory** and **adult beginner gamblers**.
+In serious terms, the main target demographic will be **children playing in primary school and elderly people who are trying to exercise their memory**.
 
 ### Gameplay
 
